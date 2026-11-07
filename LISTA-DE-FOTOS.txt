@@ -1,0 +1,76 @@
+FOTOS DE LOS CONTROLES
+======================
+Guarda cada foto en client/src/assets/productos/ con el nombre indicado (jpg, png o webp).
+
+A) FOTO POR MARCA (sirve para todos los controles de esa marca):
+
+  [ ]  marca-lg.jpg   ->  LG
+  [ ]  marca-samsung.jpg   ->  Samsung
+  [ ]  marca-sony.jpg   ->  Sony
+  [ ]  marca-panasonic.jpg   ->  Panasonic
+  [ ]  marca-challenger.jpg   ->  Challenger
+  [ ]  marca-hyundai.jpg   ->  Hyundai
+  [ ]  marca-kalley.jpg   ->  Kalley
+  [ ]  marca-kaizen.jpg   ->  Kaizen
+  [ ]  marca-olimpo.jpg   ->  Olimpo
+  [ ]  marca-exclusive.jpg   ->  Exclusive
+  [ ]  marca-vinci.jpg   ->  Vinci
+  [ ]  marca-tcl.jpg   ->  TCL
+  [ ]  marca-hisense.jpg   ->  Hisense
+  [ ]  marca-philips.jpg   ->  Philips
+  [ ]  marca-aoc.jpg   ->  AOC
+  [ ]  marca-toshiba.jpg   ->  Toshiba
+  [ ]  marca-sharp.jpg   ->  Sharp
+  [ ]  marca-aiwa.jpg   ->  Aiwa
+  [ ]  marca-jvc.jpg   ->  JVC
+  [ ]  marca-daewoo.jpg   ->  Daewoo
+  [ ]  marca-noblex.jpg   ->  Noblex
+  [ ]  marca-rca.jpg   ->  RCA
+  [ ]  marca-xiaomi.jpg   ->  Xiaomi
+  [ ]  marca-roku.jpg   ->  Roku
+  [ ]  marca-claro.jpg   ->  Claro TV
+  [ ]  marca-directv.jpg   ->  DirecTV
+  [ ]  marca-movistar.jpg   ->  Movistar
+  [ ]  marca-tigo.jpg   ->  Tigo
+  [ ]  marca-universal.jpg   ->  Universal
+
+B) FOTO POR PRODUCTO (si quieres una foto distinta en cada control):
+
+  [ ]  1.jpg   ->  LG - Control Magic Smart TV (AKB75095307)
+  [ ]  2.jpg   ->  LG - Control TV LED/LCD clásico
+  [ ]  3.jpg   ->  Samsung - Control Smart TV con botones de apps (BN59-01315B)
+  [ ]  4.jpg   ->  Samsung - Control TV LED convencional (AA59-00602A)
+  [ ]  5.jpg   ->  Sony - Control Bravia Smart TV (RM-YD103)
+  [ ]  6.jpg   ->  Sony - Control TV convencional (RM-ED047)
+  [ ]  7.jpg   ->  Panasonic - Control TV LED/Smart
+  [ ]  8.jpg   ->  Panasonic - Control TV convencional
+  [ ]  9.jpg   ->  Challenger - Control Smart TV
+  [ ]  10.jpg   ->  Challenger - Control TV LED convencional
+  [ ]  11.jpg   ->  Hyundai - Control Smart TV
+  [ ]  12.jpg   ->  Hyundai - Control TV LED convencional
+  [ ]  13.jpg   ->  Kalley - Control Smart TV
+  [ ]  14.jpg   ->  Kalley - Control TV LED convencional
+  [ ]  15.jpg   ->  Kaizen - Control TV LED
+  [ ]  16.jpg   ->  Olimpo - Control TV LED
+  [ ]  17.jpg   ->  Exclusive - Control TV LED
+  [ ]  18.jpg   ->  Vinci - Control Smart TV
+  [ ]  19.jpg   ->  TCL - Control Smart TV con botón Netflix
+  [ ]  20.jpg   ->  Hisense - Control Smart TV con voz
+  [ ]  21.jpg   ->  Philips - Control TV LED/Smart
+  [ ]  22.jpg   ->  AOC - Control TV LED/Smart
+  [ ]  23.jpg   ->  Toshiba - Control TV LED/Smart
+  [ ]  24.jpg   ->  Sharp - Control TV LED convencional
+  [ ]  25.jpg   ->  Aiwa - Control TV LED convencional
+  [ ]  26.jpg   ->  JVC - Control TV LED convencional
+  [ ]  27.jpg   ->  Daewoo - Control TV convencional
+  [ ]  28.jpg   ->  Noblex - Control TV LED/Smart
+  [ ]  29.jpg   ->  RCA - Control TV convencional
+  [ ]  30.jpg   ->  Xiaomi - Control Mi TV con Bluetooth
+  [ ]  31.jpg   ->  Roku - Control Roku TV
+  [ ]  32.jpg   ->  Claro TV - Control decodificador Claro TV
+  [ ]  33.jpg   ->  DirecTV - Control decodificador DirecTV
+  [ ]  34.jpg   ->  Movistar - Control decodificador Movistar
+  [ ]  35.jpg   ->  Tigo - Control decodificador Tigo
+  [ ]  36.jpg   ->  Universal - Control universal para TV (todas las marcas)
+  [ ]  37.jpg   ->  Universal - Control universal Smart TV
+  [ ]  38.jpg   ->  Universal - Control universal aire acondicionado

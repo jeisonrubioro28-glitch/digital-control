@@ -1,0 +1,17 @@
+FOTOS REALES DE LOS CONTROLES
+=============================
+Pon aquí las fotos y la página las detecta sola (no hay que tocar código).
+
+Cómo nombrarlas (jpg, png o webp):
+
+  1.jpg          -> foto del producto con id 1 (la más específica)
+  marca-lg.jpg   -> foto de la marca LG: se usa en TODOS los controles LG que no tengan foto propia
+  marca-samsung.jpg, marca-sony.jpg, marca-kalley.jpg ...
+
+Para ver la lista de ids y nombres exactos:   npm run fotos
+
+Consejos para que se vean bien:
+  - Fondo blanco o liso, buena luz, control de frente y centrado.
+  - Cuadradas o verticales, de unos 800 px de alto (pesar menos de 150 KB).
+  - Usa fotos TUYAS (o del distribuidor con permiso). No copies imágenes de otras páginas.
+Después de agregar fotos: guarda y la página se actualiza sola (npm run dev) o ejecuta npm run build.

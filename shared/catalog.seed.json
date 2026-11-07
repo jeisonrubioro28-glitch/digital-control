@@ -1,0 +1,743 @@
+{
+  "brands": [
+    {
+      "id": "lg",
+      "name": "LG",
+      "color": "#A50034"
+    },
+    {
+      "id": "samsung",
+      "name": "Samsung",
+      "color": "#1428A0"
+    },
+    {
+      "id": "sony",
+      "name": "Sony",
+      "color": "#334155"
+    },
+    {
+      "id": "panasonic",
+      "name": "Panasonic",
+      "color": "#0041C0"
+    },
+    {
+      "id": "challenger",
+      "name": "Challenger",
+      "color": "#E30613"
+    },
+    {
+      "id": "hyundai",
+      "name": "Hyundai",
+      "color": "#00A2E8"
+    },
+    {
+      "id": "kalley",
+      "name": "Kalley",
+      "color": "#FF6A00"
+    },
+    {
+      "id": "kaizen",
+      "name": "Kaizen",
+      "color": "#00A859"
+    },
+    {
+      "id": "olimpo",
+      "name": "Olimpo",
+      "color": "#7B2CBF"
+    },
+    {
+      "id": "exclusive",
+      "name": "Exclusive",
+      "color": "#C9A227"
+    },
+    {
+      "id": "vinci",
+      "name": "Vinci",
+      "color": "#0EA5E9"
+    },
+    {
+      "id": "tcl",
+      "name": "TCL",
+      "color": "#E4002B"
+    },
+    {
+      "id": "hisense",
+      "name": "Hisense",
+      "color": "#00A0A0"
+    },
+    {
+      "id": "philips",
+      "name": "Philips",
+      "color": "#0B5ED7"
+    },
+    {
+      "id": "aoc",
+      "name": "AOC",
+      "color": "#D32F2F"
+    },
+    {
+      "id": "toshiba",
+      "name": "Toshiba",
+      "color": "#C62828"
+    },
+    {
+      "id": "sharp",
+      "name": "Sharp",
+      "color": "#B71C1C"
+    },
+    {
+      "id": "aiwa",
+      "name": "Aiwa",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "jvc",
+      "name": "JVC",
+      "color": "#2563EB"
+    },
+    {
+      "id": "daewoo",
+      "name": "Daewoo",
+      "color": "#0F766E"
+    },
+    {
+      "id": "noblex",
+      "name": "Noblex",
+      "color": "#9333EA"
+    },
+    {
+      "id": "rca",
+      "name": "RCA",
+      "color": "#DC2626"
+    },
+    {
+      "id": "xiaomi",
+      "name": "Xiaomi",
+      "color": "#FF6900"
+    },
+    {
+      "id": "roku",
+      "name": "Roku",
+      "color": "#6C1C9E"
+    },
+    {
+      "id": "claro",
+      "name": "Claro TV",
+      "color": "#E30613"
+    },
+    {
+      "id": "directv",
+      "name": "DirecTV",
+      "color": "#0099D8"
+    },
+    {
+      "id": "movistar",
+      "name": "Movistar",
+      "color": "#019DF4"
+    },
+    {
+      "id": "tigo",
+      "name": "Tigo",
+      "color": "#00377D"
+    },
+    {
+      "id": "universal",
+      "name": "Universal",
+      "color": "#8B93A1"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Smart TV",
+      "color": "#E5382B"
+    },
+    {
+      "name": "Convencional",
+      "color": "#1FA35B"
+    },
+    {
+      "name": "Decodificador",
+      "color": "#F4B823"
+    },
+    {
+      "name": "Universal",
+      "color": "#2764E8"
+    },
+    {
+      "name": "Aire acondicionado",
+      "color": "#8B93A1"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "brand": "lg",
+      "name": "Control Magic Smart TV",
+      "category": "Smart TV",
+      "price": 48000,
+      "ref": "AKB75095307",
+      "stock": true,
+      "variant": "smart",
+      "tag": "Más vendido",
+      "img": "",
+      "bestseller": true,
+      "description": "Control para televisores LG Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 2,
+      "brand": "lg",
+      "name": "Control TV LED/LCD clásico",
+      "category": "Convencional",
+      "price": 32000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores LG convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 3,
+      "brand": "samsung",
+      "name": "Control Smart TV con botones de apps",
+      "category": "Smart TV",
+      "price": 52000,
+      "ref": "BN59-01315B",
+      "stock": true,
+      "variant": "slim",
+      "tag": "Más vendido",
+      "img": "",
+      "bestseller": true,
+      "description": "Control para televisores Samsung Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 4,
+      "brand": "samsung",
+      "name": "Control TV LED convencional",
+      "category": "Convencional",
+      "price": 30000,
+      "ref": "AA59-00602A",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Samsung convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 5,
+      "brand": "sony",
+      "name": "Control Bravia Smart TV",
+      "category": "Smart TV",
+      "price": 55000,
+      "ref": "RM-YD103",
+      "stock": true,
+      "variant": "voice",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Sony Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 6,
+      "brand": "sony",
+      "name": "Control TV convencional",
+      "category": "Convencional",
+      "price": 30000,
+      "ref": "RM-ED047",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Sony convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 7,
+      "brand": "panasonic",
+      "name": "Control TV LED/Smart",
+      "category": "Smart TV",
+      "price": 42000,
+      "ref": "",
+      "stock": true,
+      "variant": "smart",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Panasonic Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 8,
+      "brand": "panasonic",
+      "name": "Control TV convencional",
+      "category": "Convencional",
+      "price": 28000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Panasonic convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 9,
+      "brand": "challenger",
+      "name": "Control Smart TV",
+      "category": "Smart TV",
+      "price": 38000,
+      "ref": "",
+      "stock": true,
+      "variant": "smart",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Challenger Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 10,
+      "brand": "challenger",
+      "name": "Control TV LED convencional",
+      "category": "Convencional",
+      "price": 26000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Challenger convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 11,
+      "brand": "hyundai",
+      "name": "Control Smart TV",
+      "category": "Smart TV",
+      "price": 38000,
+      "ref": "",
+      "stock": true,
+      "variant": "smart",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Hyundai Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 12,
+      "brand": "hyundai",
+      "name": "Control TV LED convencional",
+      "category": "Convencional",
+      "price": 26000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Hyundai convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 13,
+      "brand": "kalley",
+      "name": "Control Smart TV",
+      "category": "Smart TV",
+      "price": 38000,
+      "ref": "",
+      "stock": true,
+      "variant": "smart",
+      "tag": "Más vendido",
+      "img": "",
+      "bestseller": true,
+      "description": "Control para televisores Kalley Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 14,
+      "brand": "kalley",
+      "name": "Control TV LED convencional",
+      "category": "Convencional",
+      "price": 26000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Kalley convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 15,
+      "brand": "kaizen",
+      "name": "Control TV LED",
+      "category": "Convencional",
+      "price": 26000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Kaizen convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 16,
+      "brand": "olimpo",
+      "name": "Control TV LED",
+      "category": "Convencional",
+      "price": 26000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Olimpo convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 17,
+      "brand": "exclusive",
+      "name": "Control TV LED",
+      "category": "Convencional",
+      "price": 26000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Exclusive convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 18,
+      "brand": "vinci",
+      "name": "Control Smart TV",
+      "category": "Smart TV",
+      "price": 36000,
+      "ref": "",
+      "stock": true,
+      "variant": "smart",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Vinci Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 19,
+      "brand": "tcl",
+      "name": "Control Smart TV con botón Netflix",
+      "category": "Smart TV",
+      "price": 40000,
+      "ref": "",
+      "stock": true,
+      "variant": "voice",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores TCL Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 20,
+      "brand": "hisense",
+      "name": "Control Smart TV con voz",
+      "category": "Smart TV",
+      "price": 48000,
+      "ref": "",
+      "stock": true,
+      "variant": "voice",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Hisense Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 21,
+      "brand": "philips",
+      "name": "Control TV LED/Smart",
+      "category": "Smart TV",
+      "price": 38000,
+      "ref": "",
+      "stock": true,
+      "variant": "smart",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Philips Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 22,
+      "brand": "aoc",
+      "name": "Control TV LED/Smart",
+      "category": "Smart TV",
+      "price": 34000,
+      "ref": "",
+      "stock": true,
+      "variant": "smart",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores AOC Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 23,
+      "brand": "toshiba",
+      "name": "Control TV LED/Smart",
+      "category": "Smart TV",
+      "price": 36000,
+      "ref": "",
+      "stock": true,
+      "variant": "smart",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Toshiba Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 24,
+      "brand": "sharp",
+      "name": "Control TV LED convencional",
+      "category": "Convencional",
+      "price": 28000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Sharp convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 25,
+      "brand": "aiwa",
+      "name": "Control TV LED convencional",
+      "category": "Convencional",
+      "price": 26000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Aiwa convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 26,
+      "brand": "jvc",
+      "name": "Control TV LED convencional",
+      "category": "Convencional",
+      "price": 28000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores JVC convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 27,
+      "brand": "daewoo",
+      "name": "Control TV convencional",
+      "category": "Convencional",
+      "price": 26000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Daewoo convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 28,
+      "brand": "noblex",
+      "name": "Control TV LED/Smart",
+      "category": "Smart TV",
+      "price": 34000,
+      "ref": "",
+      "stock": false,
+      "variant": "smart",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Noblex Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 29,
+      "brand": "rca",
+      "name": "Control TV convencional",
+      "category": "Convencional",
+      "price": 26000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores RCA convencionales (LED/LCD). Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 30,
+      "brand": "xiaomi",
+      "name": "Control Mi TV con Bluetooth",
+      "category": "Smart TV",
+      "price": 45000,
+      "ref": "",
+      "stock": true,
+      "variant": "voice",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Xiaomi Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 31,
+      "brand": "roku",
+      "name": "Control Roku TV",
+      "category": "Smart TV",
+      "price": 44000,
+      "ref": "",
+      "stock": false,
+      "variant": "voice",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control para televisores Roku Smart TV, con navegación y teclas de acceso a aplicaciones. Confirma la referencia de tu control antes de comprar o envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 32,
+      "brand": "claro",
+      "name": "Control decodificador Claro TV",
+      "category": "Decodificador",
+      "price": 30000,
+      "ref": "",
+      "stock": true,
+      "variant": "deco",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control remoto para decodificador Claro TV. Confirma la referencia de tu control antes de comprar; si no estás seguro, envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 33,
+      "brand": "directv",
+      "name": "Control decodificador DirecTV",
+      "category": "Decodificador",
+      "price": 30000,
+      "ref": "",
+      "stock": true,
+      "variant": "deco",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control remoto para decodificador DirecTV. Confirma la referencia de tu control antes de comprar; si no estás seguro, envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 34,
+      "brand": "movistar",
+      "name": "Control decodificador Movistar",
+      "category": "Decodificador",
+      "price": 30000,
+      "ref": "",
+      "stock": true,
+      "variant": "deco",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control remoto para decodificador Movistar. Confirma la referencia de tu control antes de comprar; si no estás seguro, envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 35,
+      "brand": "tigo",
+      "name": "Control decodificador Tigo",
+      "category": "Decodificador",
+      "price": 30000,
+      "ref": "",
+      "stock": true,
+      "variant": "deco",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control remoto para decodificador Tigo. Confirma la referencia de tu control antes de comprar; si no estás seguro, envíanos una foto por WhatsApp.",
+      "active": true
+    },
+    {
+      "id": 36,
+      "brand": "universal",
+      "name": "Control universal para TV (todas las marcas)",
+      "category": "Universal",
+      "price": 25000,
+      "ref": "",
+      "stock": true,
+      "variant": "classic",
+      "tag": "Económico",
+      "img": "",
+      "bestseller": true,
+      "description": "Control universal compatible con muchas marcas. Si lo necesitas programado para tu TV, escríbenos y lo dejamos listo.",
+      "active": true
+    },
+    {
+      "id": 37,
+      "brand": "universal",
+      "name": "Control universal Smart TV",
+      "category": "Universal",
+      "price": 38000,
+      "ref": "",
+      "stock": true,
+      "variant": "smart",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control universal compatible con muchas marcas. Si lo necesitas programado para tu TV, escríbenos y lo dejamos listo.",
+      "active": true
+    },
+    {
+      "id": 38,
+      "brand": "universal",
+      "name": "Control universal aire acondicionado",
+      "category": "Aire acondicionado",
+      "price": 35000,
+      "ref": "",
+      "stock": true,
+      "variant": "ac",
+      "tag": "",
+      "img": "",
+      "bestseller": false,
+      "description": "Control universal para aire acondicionado. Lo programamos para tu equipo si nos dices la marca y el modelo.",
+      "active": true
+    }
+  ]
+}

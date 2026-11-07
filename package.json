@@ -1,0 +1,17 @@
+{
+  "name": "digital-control",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Digital Control: venta y reparación de controles remotos. React + Bootstrap + Node.js/Express, sin base de datos.",
+  "scripts": {
+    "install:all": "npm install && npm --prefix client install && npm --prefix server install",
+    "dev": "concurrently -n api,web -c yellow,cyan \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix server start",
+    "render-build": "npm --prefix client install --include=dev && npm --prefix client run build && npm --prefix server install",
+    "fotos": "node scripts/fotos.mjs"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
